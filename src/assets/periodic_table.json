@@ -1,0 +1,2156 @@
+[
+  {
+    "id": 0,
+    "x": 0,
+    "y": 0,
+    "element": {
+      "number": 1,
+      "symbol": "H",
+      "name": "Hydrogen",
+      "mass": 1.0079,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        1
+      ]
+    }
+  }, {
+    "id": 1,
+    "x": 17,
+    "y": 0,
+    "element": {
+      "number": 2,
+      "symbol": "He",
+      "name": "Helium",
+      "mass": 4.0026,
+      "category": "Noble Gasses",
+      "electronrings": [
+        2
+      ]
+    }
+  }, {
+    "id": 2,
+    "x": 0,
+    "y": 1,
+    "element": {
+      "number": 3,
+      "symbol": "Li",
+      "name": "Lithium",
+      "mass": 6.941,
+      "category": "Alkali Metals",
+      "electronrings": [
+        2,
+        1
+      ]
+    }
+  }, {
+    "id": 3,
+    "x": 1,
+    "y": 1,
+    "element": {
+      "number": 4,
+      "symbol": "Be",
+      "name": "Beryllium",
+      "mass": 9.0122,
+      "category": "Alkaline Earth Metals",
+      "electronrings": [
+        2,
+        2
+      ]
+    }
+  }, {
+    "id": 4,
+    "x": 12,
+    "y": 1,
+    "element": {
+      "number": 5,
+      "symbol": "B",
+      "name": "Boron",
+      "mass": 10.811,
+      "category": "Metalloids",
+      "electronrings": [
+        2,
+        3
+      ]
+    }
+  }, {
+    "id": 5,
+    "x": 13,
+    "y": 1,
+    "element": {
+      "number": 6,
+      "symbol": "C",
+      "name": "Carbon",
+      "mass": 12.0107,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        4
+      ]
+    }
+  }, {
+    "id": 6,
+    "x": 14,
+    "y": 1,
+    "element": {
+      "number": 7,
+      "symbol": "N",
+      "name": "Nitrogen",
+      "mass": 14.0067,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        5
+      ]
+    }
+  }, {
+    "id": 7,
+    "x": 15,
+    "y": 1,
+    "element": {
+      "number": 8,
+      "symbol": "O",
+      "name": "Oxygen",
+      "mass": 15.9994,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        6
+      ]
+    }
+  }, {
+    "id": 8,
+    "x": 16,
+    "y": 1,
+    "element": {
+      "number": 9,
+      "symbol": "F",
+      "name": "Fluorine",
+      "mass": 18.9984,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        7
+      ]
+    }
+  }, {
+    "id": 9,
+    "x": 17,
+    "y": 1,
+    "element": {
+      "number": 10,
+      "symbol": "Ne",
+      "name": "Neon",
+      "mass": 20.1797,
+      "category": "Noble Gasses",
+      "electronrings": [
+        2,
+        8
+      ]
+    }
+  }, {
+    "id": 10,
+    "x": 0,
+    "y": 2,
+    "element": {
+      "number": 11,
+      "symbol": "Na",
+      "name": "Sodium",
+      "mass": 22.9897,
+      "category": "Alkali Metals",
+      "electronrings": [
+        2,
+        8,
+        1
+      ]
+    }
+  }, {
+    "id": 11,
+    "x": 1,
+    "y": 2,
+    "element": {
+      "number": 12,
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "mass": 24.305,
+      "category": "Alkaline Earth Metals",
+      "electronrings": [
+        2,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 12,
+    "x": 12,
+    "y": 2,
+    "element": {
+      "number": 13,
+      "symbol": "Al",
+      "name": "Aluminium",
+      "mass": 26.9815,
+      "category": "Post-transition Metals",
+      "electronrings": [
+        2,
+        8,
+        3
+      ]
+    }
+  }, {
+    "id": 13,
+    "x": 13,
+    "y": 2,
+    "element": {
+      "number": 14,
+      "symbol": "Si",
+      "name": "Silicon",
+      "mass": 28.0855,
+      "category": "Metalloids",
+      "electronrings": [
+        2,
+        8,
+        4
+      ]
+    }
+  }, {
+    "id": 14,
+    "x": 14,
+    "y": 2,
+    "element": {
+      "number": 15,
+      "symbol": "P",
+      "name": "Phosphorus",
+      "mass": 30.9738,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        8,
+        5
+      ]
+    }
+  }, {
+    "id": 15,
+    "x": 15,
+    "y": 2,
+    "element": {
+      "number": 16,
+      "symbol": "S",
+      "name": "Sulfur",
+      "mass": 32.065,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        8,
+        6
+      ]
+    }
+  }, {
+    "id": 16,
+    "x": 16,
+    "y": 2,
+    "element": {
+      "number": 17,
+      "symbol": "Cl",
+      "name": "Chlorine",
+      "mass": 35.453,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        8,
+        7
+      ]
+    }
+  }, {
+    "id": 17,
+    "x": 17,
+    "y": 2,
+    "element": {
+      "number": 18,
+      "symbol": "Ar",
+      "name": "Argon",
+      "mass": 39.948,
+      "category": "Noble Gasses",
+      "electronrings": [
+        2,
+        8,
+        8
+      ]
+    }
+  }, {
+    "id": 18,
+    "x": 0,
+    "y": 3,
+    "element": {
+      "number": 19,
+      "symbol": "K",
+      "name": "Potassium",
+      "mass": 39.0983,
+      "category": "Alkali Metals",
+      "electronrings": [
+        2,
+        8,
+        8,
+        1
+      ]
+    }
+  }, {
+    "id": 19,
+    "x": 1,
+    "y": 3,
+    "element": {
+      "number": 20,
+      "symbol": "Ca",
+      "name": "Calcium",
+      "mass": 40.078,
+      "category": "Alkaline Earth Metals",
+      "electronrings": [
+        2,
+        8,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 20,
+    "x": 2,
+    "y": 3,
+    "element": {
+      "number": 21,
+      "symbol": "Sc",
+      "name": "Scandium",
+      "mass": 44.9559,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 21,
+    "x": 3,
+    "y": 3,
+    "element": {
+      "number": 22,
+      "symbol": "Ti",
+      "name": "Titanium",
+      "mass": 47.867,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        10,
+        2
+      ]
+    }
+  }, {
+    "id": 22,
+    "x": 4,
+    "y": 3,
+    "element": {
+      "number": 23,
+      "symbol": "V",
+      "name": "Vanadium",
+      "mass": 50.9415,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        11,
+        2
+      ]
+    }
+  }, {
+    "id": 23,
+    "x": 5,
+    "y": 3,
+    "element": {
+      "number": 24,
+      "symbol": "Cr",
+      "name": "Chromium",
+      "mass": 51.9961,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        13,
+        1
+      ]
+    }
+  }, {
+    "id": 24,
+    "x": 6,
+    "y": 3,
+    "element": {
+      "number": 25,
+      "symbol": "Mn",
+      "name": "Manganese",
+      "mass": 54.9380,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        13,
+        2
+      ]
+    }
+  }, {
+    "id": 25,
+    "x": 7,
+    "y": 3,
+    "element": {
+      "number": 26,
+      "symbol": "Fe",
+      "name": "Iron",
+      "mass": 55.845,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        14,
+        2
+      ]
+    }
+  }, {
+    "id": 26,
+    "x": 8,
+    "y": 3,
+    "element": {
+      "number": 27,
+      "symbol": "Co",
+      "name": "Cobalt",
+      "mass": 58.9332,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        15,
+        2
+      ]
+    }
+  }, {
+    "id": 27,
+    "x": 9,
+    "y": 3,
+    "element": {
+      "number": 28,
+      "symbol": "Ni",
+      "name": "Nickel",
+      "mass": 58.6934,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        16,
+        2
+      ]
+    }
+  }, {
+    "id": 28,
+    "x": 10,
+    "y": 3,
+    "element": {
+      "number": 29,
+      "symbol": "Cu",
+      "name": "Copper",
+      "mass": 63.546,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        1
+      ]
+    }
+  }, {
+    "id": 29,
+    "x": 11,
+    "y": 3,
+    "element": {
+      "number": 30,
+      "symbol": "Zn",
+      "name": "Zinc",
+      "mass": 65.38,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        2
+      ]
+    }
+  }, {
+    "id": 30,
+    "x": 12,
+    "y": 3,
+    "element": {
+      "number": 31,
+      "symbol": "Ga",
+      "name": "Gallium",
+      "mass": 69.723,
+      "category": "Post-transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        3
+      ]
+    }
+  }, {
+    "id": 31,
+    "x": 13,
+    "y": 3,
+    "element": {
+      "number": 32,
+      "symbol": "Ge",
+      "name": "Germanium",
+      "mass": 72.63,
+      "category": "Metalloids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        4
+      ]
+    }
+  }, {
+    "id": 32,
+    "x": 14,
+    "y": 3,
+    "element": {
+      "number": 33,
+      "symbol": "As",
+      "name": "Arsenic",
+      "mass": 74.9216,
+      "category": "Metalloids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        5
+      ]
+    }
+  }, {
+    "id": 33,
+    "x": 15,
+    "y": 3,
+    "element": {
+      "number": 34,
+      "symbol": "Se",
+      "name": "Selenium",
+      "mass": 78.96,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        6
+      ]
+    }
+  }, {
+    "id": 34,
+    "x": 16,
+    "y": 3,
+    "element": {
+      "number": 35,
+      "symbol": "Br",
+      "name": "Bromine",
+      "mass": 79.904,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        7
+      ]
+    }
+  }, {
+    "id": 35,
+    "x": 17,
+    "y": 3,
+    "element": {
+      "number": 36,
+      "symbol": "Kr",
+      "name": "Krypton",
+      "mass": 83.798,
+      "category": "Noble Gasses",
+      "electronrings": [
+        2,
+        8,
+        18,
+        8
+      ]
+    }
+  }, {
+    "id": 36,
+    "x": 0,
+    "y": 4,
+    "element": {
+      "number": 37,
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "mass": 85.4678,
+      "category": "Alkali Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        8,
+        1
+      ]
+    }
+  }, {
+    "id": 37,
+    "x": 1,
+    "y": 4,
+    "element": {
+      "number": 38,
+      "symbol": "Sr",
+      "name": "Strontium",
+      "mass": 87.62,
+      "category": "Alkaline Earth Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 38,
+    "x": 2,
+    "y": 4,
+    "element": {
+      "number": 39,
+      "symbol": "Y",
+      "name": "Yttrium",
+      "mass": 88.9058,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 39,
+    "x": 3,
+    "y": 4,
+    "element": {
+      "number": 40,
+      "symbol": "Zr",
+      "name": "Zirconium",
+      "mass": 91.224,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        10,
+        2
+      ]
+    }
+  }, {
+    "id": 40,
+    "x": 4,
+    "y": 4,
+    "element": {
+      "number": 41,
+      "symbol": "Nb",
+      "name": "Niobium",
+      "mass": 92.9064,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        12,
+        1
+      ]
+    }
+  }, {
+    "id": 41,
+    "x": 5,
+    "y": 4,
+    "element": {
+      "number": 42,
+      "symbol": "Mo",
+      "name": "Molybdenum",
+      "mass": 95.94,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        13,
+        1
+      ]
+    }
+  }, {
+    "id": 42,
+    "x": 6,
+    "y": 4,
+    "element": {
+      "number": 43,
+      "symbol": "Tc",
+      "name": "Technetium",
+      "mass": 98,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        14,
+        1
+      ]
+    }
+  }, {
+    "id": 43,
+    "x": 7,
+    "y": 4,
+    "element": {
+      "number": 44,
+      "symbol": "Ru",
+      "name": "Ruthenium",
+      "mass": 101.07,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        15,
+        1
+      ]
+    }
+  }, {
+    "id": 44,
+    "x": 8,
+    "y": 4,
+    "element": {
+      "number": 45,
+      "symbol": "Rh",
+      "name": "Rhodium",
+      "mass": 102.9055,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        16,
+        1
+      ]
+    }
+  }, {
+    "id": 45,
+    "x": 9,
+    "y": 4,
+    "element": {
+      "number": 46,
+      "symbol": "Pd",
+      "name": "Palladium",
+      "mass": 106.42,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18
+      ]
+    }
+  }, {
+    "id": 46,
+    "x": 10,
+    "y": 4,
+    "element": {
+      "number": 47,
+      "symbol": "Ag",
+      "name": "Silver",
+      "mass": 107.8682,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        1
+      ]
+    }
+  }, {
+    "id": 47,
+    "x": 11,
+    "y": 4,
+    "element": {
+      "number": 48,
+      "symbol": "Cd",
+      "name": "Cadmium",
+      "mass": 112.411,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        2
+      ]
+    }
+  }, {
+    "id": 48,
+    "x": 12,
+    "y": 4,
+    "element": {
+      "number": 49,
+      "symbol": "In",
+      "name": "Indium",
+      "mass": 114.818,
+      "category": "Post-transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        3
+      ]
+    }
+  }, {
+    "id": 49,
+    "x": 13,
+    "y": 4,
+    "element": {
+      "number": 50,
+      "symbol": "Sn",
+      "name": "Tin",
+      "mass": 118.71,
+      "category": "Post-transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        4
+      ]
+    }
+  }, {
+    "id": 50,
+    "x": 14,
+    "y": 4,
+    "element": {
+      "number": 51,
+      "symbol": "Sb",
+      "name": "Antimony",
+      "mass": 121.76,
+      "category": "Metalloids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        5
+      ]
+    }
+  }, {
+    "id": 51,
+    "x": 15,
+    "y": 4,
+    "element": {
+      "number": 52,
+      "symbol": "Te",
+      "name": "Tellurium",
+      "mass": 127.6,
+      "category": "Metalloids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        6
+      ]
+    }
+  }, {
+    "id": 52,
+    "x": 16,
+    "y": 4,
+    "element": {
+      "number": 53,
+      "symbol": "I",
+      "name": "Iodine",
+      "mass": 126.90447,
+      "category": "Other Nonmetals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        7
+      ]
+    }
+  }, {
+    "id": 53,
+    "x": 17,
+    "y": 4,
+    "element": {
+      "number": 54,
+      "symbol": "Xe",
+      "name": "Xenon",
+      "mass": 131.293,
+      "category": "Noble Gasses",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        8
+      ]
+    }
+  }, {
+    "id": 54,
+    "x": 0,
+    "y": 5,
+    "element": {
+      "number": 55,
+      "symbol": "Cs",
+      "name": "Caesium",
+      "mass": 132.90545,
+      "category": "Alkali Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        8,
+        1
+      ]
+    }
+  }, {
+    "id": 55,
+    "x": 1,
+    "y": 5,
+    "element": {
+      "number": 56,
+      "symbol": "Ba",
+      "name": "Barium",
+      "mass": 137.327,
+      "category": "Alkaline Earth Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 56,
+    "x": 3,
+    "y": 8,
+    "element": {
+      "number": 57,
+      "symbol": "La",
+      "name": "Lanthanum",
+      "mass": 138.9055,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        18,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 57,
+    "x": 4,
+    "y": 8,
+    "element": {
+      "number": 58,
+      "symbol": "Ce",
+      "name": "Cerium",
+      "mass": 140.116,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        19,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 58,
+    "x": 5,
+    "y": 8,
+    "element": {
+      "number": 59,
+      "symbol": "Pr",
+      "name": "Praseodymium",
+      "mass": 140.90765,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        21,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 59,
+    "x": 6,
+    "y": 8,
+    "element": {
+      "number": 60,
+      "symbol": "Nd",
+      "name": "Neodymium",
+      "mass": 144.242,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        22,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 60,
+    "x": 7,
+    "y": 8,
+    "element": {
+      "number": 61,
+      "symbol": "Pm",
+      "name": "Promethium",
+      "mass": 145.0,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        23,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 61,
+    "x": 8,
+    "y": 8,
+    "element": {
+      "number": 62,
+      "symbol": "Sm",
+      "name": "Samarium",
+      "mass": 150.36,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        24,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 62,
+    "x": 9,
+    "y": 8,
+    "element": {
+      "number": 63,
+      "symbol": "Eu",
+      "name": "Europium",
+      "mass": 151.964,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        25,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 63,
+    "x": 10,
+    "y": 8,
+    "element": {
+      "number": 64,
+      "symbol": "Gd",
+      "name": "Gadolinium",
+      "mass": 157.25,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        25,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 64,
+    "x": 11,
+    "y": 8,
+    "element": {
+      "number": 65,
+      "symbol": "Tb",
+      "name": "Terbium",
+      "mass": 158.92535,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        27,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 65,
+    "x": 12,
+    "y": 8,
+    "element": {
+      "number": 66,
+      "symbol": "Dy",
+      "name": "Dysprosium",
+      "mass": 162.5,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        28,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 66,
+    "x": 13,
+    "y": 8,
+    "element": {
+      "number": 67,
+      "symbol": "Ho",
+      "name": "Holmium",
+      "mass": 164.93032,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        29,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 67,
+    "x": 14,
+    "y": 8,
+    "element": {
+      "number": 68,
+      "symbol": "Er",
+      "name": "Erbium",
+      "mass": 167.259,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        30,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 68,
+    "x": 15,
+    "y": 8,
+    "element": {
+      "number": 69,
+      "symbol": "Tm",
+      "name": "Thulium",
+      "mass": 168.93421,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        31,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 69,
+    "x": 16,
+    "y": 8,
+    "element": {
+      "number": 70,
+      "symbol": "Yb",
+      "name": "Ytterbium",
+      "mass": 173.04,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 70,
+    "x": 17,
+    "y": 8,
+    "element": {
+      "number": 71,
+      "symbol": "Lu",
+      "name": "Lutetium",
+      "mass": 174.967,
+      "category": "Lanthanide",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 71,
+    "x": 3,
+    "y": 5,
+    "element": {
+      "number": 72,
+      "symbol": "Hf",
+      "name": "Hafnium",
+      "mass": 178.49,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        10,
+        2
+      ]
+    }
+  }, {
+    "id": 72,
+    "x": 4,
+    "y": 5,
+    "element": {
+      "number": 73,
+      "symbol": "Ta",
+      "name": "Tantalum",
+      "mass": 180.94788,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        11,
+        2
+      ]
+    }
+  }, {
+    "id": 73,
+    "x": 5,
+    "y": 5,
+    "element": {
+      "number": 74,
+      "symbol": "W",
+      "name": "Tungsten",
+      "mass": 183.84,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        12,
+        2
+      ]
+    }
+  }, {
+    "id": 74,
+    "x": 6,
+    "y": 5,
+    "element": {
+      "number": 75,
+      "symbol": "Re",
+      "name": "Rhenium",
+      "mass": 186.207,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        13,
+        2
+      ]
+    }
+  }, {
+    "id": 75,
+    "x": 7,
+    "y": 5,
+    "element": {
+      "number": 76,
+      "symbol": "Os",
+      "name": "Osmium",
+      "mass": 190.23,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        14,
+        2
+      ]
+    }
+  }, {
+    "id": 76,
+    "x": 8,
+    "y": 5,
+    "element": {
+      "number": 77,
+      "symbol": "Ir",
+      "name": "Iridium",
+      "mass": 192.217,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        15,
+        2
+      ]
+    }
+  }, {
+    "id": 77,
+    "x": 9,
+    "y": 5,
+    "element": {
+      "number": 78,
+      "symbol": "Pt",
+      "name": "Platinum",
+      "mass": 195.084,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        17,
+        1
+      ]
+    }
+  }, {
+    "id": 78,
+    "x": 10,
+    "y": 5,
+    "element": {
+      "number": 79,
+      "symbol": "Au",
+      "name": "Gold",
+      "mass": 196.966569,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        1
+      ]
+    }
+  }, {
+    "id": 79,
+    "x": 11,
+    "y": 5,
+    "element": {
+      "number": 80,
+      "symbol": "Hg",
+      "name": "Mercury",
+      "mass": 200.59,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        2
+      ]
+    }
+  }, {
+    "id": 80,
+    "x": 12,
+    "y": 5,
+    "element": {
+      "number": 81,
+      "symbol": "Tl",
+      "name": "Thallium",
+      "mass": 204.3833,
+      "category": "Post-transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        3
+      ]
+    }
+  }, {
+    "id": 81,
+    "x": 13,
+    "y": 5,
+    "element": {
+      "number": 82,
+      "symbol": "Pb",
+      "name": "Lead",
+      "mass": 207.2,
+      "category": "Post-transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        4
+      ]
+    }
+  }, {
+    "id": 82,
+    "x": 14,
+    "y": 5,
+    "element": {
+      "number": 83,
+      "symbol": "Bi",
+      "name": "Bismuth",
+      "mass": 208.9804,
+      "category": "Post-transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        5
+      ]
+    }
+  }, {
+    "id": 83,
+    "x": 15,
+    "y": 5,
+    "element": {
+      "number": 84,
+      "symbol": "Po",
+      "name": "Polonium",
+      "mass": 210,
+      "category": "Post-transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        6
+      ]
+    }
+  }, {
+    "id": 84,
+    "x": 16,
+    "y": 5,
+    "element": {
+      "number": 85,
+      "symbol": "At",
+      "name": "Astatine",
+      "mass": 210,
+      "category": "Metalloids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        7
+      ]
+    }
+  }, {
+    "id": 85,
+    "x": 17,
+    "y": 5,
+    "element": {
+      "number": 86,
+      "symbol": "Rn",
+      "name": "Radon",
+      "mass": 222,
+      "category": "Noble Gasses",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        8
+      ]
+    }
+  }, {
+    "id": 86,
+    "x": 0,
+    "y": 6,
+    "element": {
+      "number": 87,
+      "symbol": "Fr",
+      "name": "Francium",
+      "mass": 223,
+      "category": "Alkali Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        8,
+        1
+      ]
+    }
+  }, {
+    "id": 87,
+    "x": 1,
+    "y": 6,
+    "element": {
+      "number": 88,
+      "symbol": "Ra",
+      "name": "Radium",
+      "mass": 226,
+      "category": "Alkaline Earth Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 88,
+    "x": 3,
+    "y": 9,
+    "element": {
+      "number": 89,
+      "symbol": "Ac",
+      "name": "Actinium",
+      "mass": 227,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 89,
+    "x": 4,
+    "y": 9,
+    "element": {
+      "number": 90,
+      "symbol": "Th",
+      "name": "Thorium",
+      "mass": 232.0377,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        18,
+        10,
+        2
+      ]
+    }
+  }, {
+    "id": 90,
+    "x": 5,
+    "y": 9,
+    "element": {
+      "number": 91,
+      "symbol": "Pa",
+      "name": "Protactinium",
+      "mass": 231.03588,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        20,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 91,
+    "x": 6,
+    "y": 9,
+    "element": {
+      "number": 92,
+      "symbol": "U",
+      "name": "Uranium",
+      "mass": 238.02891,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        21,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 92,
+    "x": 7,
+    "y": 9,
+    "element": {
+      "number": 93,
+      "symbol": "Np",
+      "name": "Neptunium",
+      "mass": 237,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        22,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 93,
+    "x": 8,
+    "y": 9,
+    "element": {
+      "number": 94,
+      "symbol": "Pu",
+      "name": "Plutonium",
+      "mass": 244,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        24,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 94,
+    "x": 9,
+    "y": 9,
+    "element": {
+      "number": 95,
+      "symbol": "Am",
+      "name": "Americium",
+      "mass": 243,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        25,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 95,
+    "x": 10,
+    "y": 9,
+    "element": {
+      "number": 96,
+      "symbol": "Cm",
+      "name": "Curium",
+      "mass": 247,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        25,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 96,
+    "x": 11,
+    "y": 9,
+    "element": {
+      "number": 97,
+      "symbol": "Bk",
+      "name": "Berkelium",
+      "mass": 247,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        27,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 97,
+    "x": 12,
+    "y": 9,
+    "element": {
+      "number": 98,
+      "symbol": "Cf",
+      "name": "Californium",
+      "mass": 251,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        28,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 98,
+    "x": 13,
+    "y": 9,
+    "element": {
+      "number": 99,
+      "symbol": "Es",
+      "name": "Einsteinium",
+      "mass": 252,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        29,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 99,
+    "x": 14,
+    "y": 9,
+    "element": {
+      "number": 100,
+      "symbol": "Fm",
+      "name": "Fermium",
+      "mass": 257,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        30,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 100,
+    "x": 15,
+    "y": 9,
+    "element": {
+      "number": 101,
+      "symbol": "Md",
+      "name": "Mendelevium",
+      "mass": 258,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        31,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 101,
+    "x": 16,
+    "y": 9,
+    "element": {
+      "number": 102,
+      "symbol": "No",
+      "name": "Nobelium",
+      "mass": 259,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        8,
+        2
+      ]
+    }
+  }, {
+    "id": 102,
+    "x": 17,
+    "y": 9,
+    "element": {
+      "number": 103,
+      "symbol": "Lr",
+      "name": "Lawrencium",
+      "mass": 266,
+      "category": "Aktinoids",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        9,
+        2
+      ]
+    }
+  }, {
+    "id": 103,
+    "x": 3,
+    "y": 6,
+    "element": {
+      "number": 104,
+      "symbol": "Rf",
+      "name": "Rutherfordium",
+      "mass": 267,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        10,
+        2
+      ]
+    }
+  }, {
+    "id": 104,
+    "x": 4,
+    "y": 6,
+    "element": {
+      "number": 105,
+      "symbol": "Db",
+      "name": "Dubnium",
+      "mass": 268,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        11,
+        2
+      ]
+    }
+  }, {
+    "id": 105,
+    "x": 5,
+    "y": 6,
+    "element": {
+      "number": 106,
+      "symbol": "Sg",
+      "name": "Seaborgium",
+      "mass": 269,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        12,
+        2
+      ]
+    }
+  }, {
+    "id": 106,
+    "x": 6,
+    "y": 6,
+    "element": {
+      "number": 107,
+      "symbol": "Bh",
+      "name": "Bohrium",
+      "mass": 270,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        13,
+        2
+      ]
+    }
+  }, {
+    "id": 107,
+    "x": 7,
+    "y": 6,
+    "element": {
+      "number": 108,
+      "symbol": "Hs",
+      "name": "Hassium",
+      "mass": 269,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        14,
+        2
+      ]
+    }
+  }, {
+    "id": 108,
+    "x": 8,
+    "y": 6,
+    "element": {
+      "number": 109,
+      "symbol": "Mt",
+      "name": "Meitnerium",
+      "mass": 278,
+      "category": "Unknown",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        15,
+        2
+      ]
+    }
+  }, {
+    "id": 109,
+    "x": 9,
+    "y": 6,
+    "element": {
+      "number": 110,
+      "symbol": "Ds",
+      "name": "Darmstadtium",
+      "mass": 281,
+      "category": "Unknown",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        16,
+        2
+      ]
+    }
+  }, {
+    "id": 110,
+    "x": 10,
+    "y": 6,
+    "element": {
+      "number": 111,
+      "symbol": "Rg",
+      "name": "Roentgenium",
+      "mass": 282,
+      "category": "Unknown",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        17,
+        2
+      ]
+    }
+  }, {
+    "id": 111,
+    "x": 11,
+    "y": 6,
+    "element": {
+      "number": 112,
+      "symbol": "Cn",
+      "name": "Copernicium",
+      "mass": 285,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        18,
+        2
+      ]
+    }
+  }, {
+    "id": 112,
+    "x": 12,
+    "y": 6,
+    "element": {
+      "number": 113,
+      "symbol": "Nh",
+      "name": "Nihonium",
+      "mass": 286,
+      "category": "Unknown",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        18,
+        3
+      ]
+    }
+  }, {
+    "id": 113,
+    "x": 13,
+    "y": 6,
+    "element": {
+      "number": 114,
+      "symbol": "Fl",
+      "name": "Flerovium",
+      "mass": 289,
+      "category": "Transition Metals",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        18,
+        4
+      ]
+    }
+  }, {
+    "id": 114,
+    "x": 14,
+    "y": 6,
+    "element": {
+      "number": 115,
+      "symbol": "Mc",
+      "name": "Moscovium",
+      "mass": 290,
+      "category": "Unknown",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        18,
+        5
+      ]
+    }
+  }, {
+    "id": 115,
+    "x": 15,
+    "y": 6,
+    "element": {
+      "number": 116,
+      "symbol": "Lv",
+      "name": "Livermorium",
+      "mass": 293,
+      "category": "Unknown",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        18,
+        6
+      ]
+    }
+  }, {
+    "id": 116,
+    "x": 16,
+    "y": 6,
+    "element": {
+      "number": 117,
+      "symbol": "Ts",
+      "name": "Tennessine",
+      "mass": 294,
+      "category": "Unknown",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        18,
+        7
+      ]
+    }
+  }, {
+    "id": 117,
+    "x": 17,
+    "y": 6,
+    "element": {
+      "number": 118,
+      "symbol": "Og",
+      "name": "Oganesson",
+      "mass": 294,
+      "category": "Unknown",
+      "electronrings": [
+        2,
+        8,
+        18,
+        32,
+        32,
+        18,
+        8
+      ]
+    }
+  }
+]
