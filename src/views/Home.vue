@@ -1,10 +1,12 @@
 <template>
   <div class="w-screen h-screen bg-gray-800 p-28 relative overflow-hidden">
+    <!-- List of categories, selecting one will highlight that category. -->
     <div class="absolute top-32 left-0 w-full flex justify-center">
       <div class="relative flex space-x-8 mx-auto">
         <span @click="selected = selected && selected === c ? null : c" v-for="c of Object.keys(categories)" :key="c" class="cursor-pointer opacity-80 hover:opacity-100" :style="`color: ${categories[c]}`">{{ c }}</span>
       </div>
     </div>
+    <!-- Grid of elements. The grid is wider than 12 (default) so we group the elements in a 2x2 subgrid. -->
     <div class="w-full h-full grid grid-cols-9 grid-rows-5 gap-0.5">
       <div v-for="i in (height / 2) * (width / 2)" :key="i" class="grid grid-cols-2 grid-rows-2 gap-0.5">
         <Element :selected="selected" :categories="categories" :element="getElement(((i - 1) * 2) % width, Math.floor(((i - 1) * 2) / width) * 2)?.element" />
@@ -51,6 +53,7 @@ export default {
   },
   methods: {
     getElement (x, y) {
+      /* Returns the element at the given coordinates. */
       return this.periodic_table.find(element => element.x === x && element.y === y)
     }
   }
